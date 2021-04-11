@@ -31,6 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'bootstrap4',
+    'neighborhood',
     'neighborhood.apps.NewsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
