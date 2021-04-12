@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'neighborhood',
     'crispy_forms',
+    'tinymce',
    
 ]
 
